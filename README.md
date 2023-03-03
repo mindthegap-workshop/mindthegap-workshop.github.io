@@ -21,25 +21,23 @@ As the team lead, you will be responsible for maintaining our open source reposi
 
 Team Lead Goals:
 
+- Request access
 - Create a repository
 - Enable GitHub Pages
 - Create branch protection rules
 - Invite your developer to the repository
 - Review a pull request
-- Approve a pull request
 
 Team Developer goals:
 
-- Create a branch
-- Add your own page
-- Create your pull request
-- Request a review of your pull request
-- Merge your pull request
-- Merge an external developer's pull request
+- Accept invitation to collaborate
+- Make a contribution
+- Create a pull request
+- Review an external developer's pull request
 
 External Developer goals:
 
-- Fork the repository
-- Add your own page
-- Create your pull request
-- Request a review of your pull request
+- Fork a repository
+- Make a contribution
+- Cleanup our fork
+- View your contributions in production
